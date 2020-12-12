@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339189894883",
+    "firebase_url": "https://shopex-110.firebaseio.com",
+    "project_id": "shopex-110",
+    "storage_bucket": "shopex-110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339189894883:android:280a1f9d51ba5da6d7ffd6",
+        "android_client_info": {
+          "package_name": "com.stopcram.shopex3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339189894883-jnkuetp3cocs956t1j0dtdmc55fm46bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stopcram.shopex3",
+            "certificate_hash": "5133d8c02c34f6a18a8d291c0be0f6570e9289df"
+          }
+        },
+        {
+          "client_id": "339189894883-5fdccg2jnfl0mt68edsvq2f3736pg0vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcndvhwYziR54Kbrm4NJTdC39ot1scvV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339189894883-5fdccg2jnfl0mt68edsvq2f3736pg0vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
